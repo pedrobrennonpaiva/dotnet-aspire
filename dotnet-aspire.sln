@@ -6,7 +6,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire.AppHost", "do
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire.ServiceDefaults", "dotnet-aspire.ServiceDefaults\dotnet-aspire.ServiceDefaults.csproj", "{4961B66A-1111-40A9-8667-7A9BAC353F0F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire.ApiService", "dotnet-aspire.ApiService\dotnet-aspire.ApiService.csproj", "{B515EF1A-E33D-47CC-91D6-03CEDE4FCE02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire.Api", "dotnet-aspire.Api\dotnet-aspire.Api.csproj", "{B515EF1A-E33D-47CC-91D6-03CEDE4FCE02}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnet-aspire.Web", "dotnet-aspire.Web\dotnet-aspire.Web.csproj", "{AD6D787E-002F-41E1-BBAA-511095C6D472}"
 EndProject

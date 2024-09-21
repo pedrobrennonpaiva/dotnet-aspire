@@ -1,0 +1,19 @@
+services:
+  dotnet-aspire-api:
+    image: ${DOCKER_REGISTRY-}dotnet-aspire-api
+    container_name: dotnet-aspire.Api
+    build:
+      context: .
+      dockerfile: dotnet-aspire.Api/Dockerfile
+    ports:
+      - "5000:8080"
+      - "5001:8081"
+      
+  dotnet-aspire-web:
+    image: ${DOCKER_REGISTRY-}dotnet-aspire-web
+    container_name: dotnet-aspire.Web
+    build:
+      context: .
+      dockerfile: dotnet-aspire.Web/Dockerfile
+    ports:
+      - "3000:80"
