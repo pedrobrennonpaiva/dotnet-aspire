@@ -41,9 +41,10 @@ C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-aspire.A
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-aspire.AppHost.AssemblyInfoInputs.cache
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-aspire.AppHost.AssemblyInfo.cs
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-aspire.AppHost.csproj.CoreCompileInputs.cache
-C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\Aspire\references\dotnet_aspire_ApiService.ProjectMetadata.g.cs
+C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\Aspire\references\dotnet_aspire_Api.ProjectMetadata.g.cs
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\Aspire\references\dotnet_aspire_Web.ProjectMetadata.g.cs
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\Aspire\references\_AppHost.ProjectMetadata.g.cs
+C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-aspire.AppHost.sourcelink.json
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-a.5AAB382B.Up2Date
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\dotnet-aspire.AppHost.dll
 C:\Projects\dotnet-aspire\dotnet-aspire.AppHost\obj\Debug\net8.0\refint\dotnet-aspire.AppHost.dll

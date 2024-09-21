@@ -11,19 +11,19 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("3be6ac29-6934-4928-a540-a0297441655d")]
-[assembly: System.Reflection.AssemblyMetadata("dcpclipath", ("C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\dc" +
-    "p.exe"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", ("C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
-    "t\\"))]
-[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", ("C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
-    "t\\bin\\"))]
+[assembly: System.Reflection.AssemblyMetadata("dcpclipath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\dc" +
+    "p.exe")]
+[assembly: System.Reflection.AssemblyMetadata("dcpextensionpaths", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
+    "t\\")]
+[assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Hosting.Orchestration.win-x64\\8.1.0\\tools\\ex" +
+    "t\\bin\\")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "c:\\Projects\\dotnet-aspire\\dotnet-aspire.AppHost")]
-[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", ("C:\\Program Files\\dotnet\\packs\\Aspire.Dashboard.Sdk.win-x64\\8.1.0\\tools\\Aspire.Das" +
-    "hboard.exe"))]
+[assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Program Files\\dotnet\\packs\\Aspire.Dashboard.Sdk.win-x64\\8.1.0\\tools\\Aspire.Das" +
+    "hboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-aspire.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+812ddb043c8fc8695d781be34b5d856809323100")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-aspire.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-aspire.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "s7RX9mo9brALepQPLK1rlL9UsvQZmvI32lQMegk6Wms=",
+  "Source": "dotnet-aspire.Api",
+  "BasePath": "_content/dotnet-aspire.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
