@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "USJhPxLdXZWD5SLmbMu8yUt+VUx83Gn32/bY7L9gfP8=",
+  "Source": "dotnet-aspire.Web",
+  "BasePath": "_content/dotnet-aspire.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dotnet-aspire.Web\\wwwroot",
+      "Source": "dotnet-aspire.Web",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dotnet-aspire.Web.styles.css",
+      "SourceId": "dotnet-aspire.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "RelativePath": "dotnet-aspire.Web#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "p007ewjl0a",
+      "Integrity": "2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dotnet-aspire.Web.styles.css"
+    },
+    {
+      "Identity": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dotnet-aspire.Web.bundle.scp.css",
+      "SourceId": "dotnet-aspire.Web",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "RelativePath": "dotnet-aspire.Web#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "p007ewjl0a",
+      "Integrity": "2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dotnet-aspire.Web.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\app.css",
+      "SourceId": "dotnet-aspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g70zxxd5ju",
+      "Integrity": "NB90Dji5BbeuPMi7qFiJrl41Lt0jgDHa3x9bFrk8Ls4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "dotnet-aspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6gzpyzhau4",
+      "Integrity": "SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "dotnet-aspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\favicon.png",
+      "SourceId": "dotnet-aspire.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\",
+      "BasePath": "_content/dotnet-aspire.Web",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NB90Dji5BbeuPMi7qFiJrl41Lt0jgDHa3x9bFrk8Ls4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NB90Dji5BbeuPMi7qFiJrl41Lt0jgDHa3x9bFrk8Ls4="
+        }
+      ]
+    },
+    {
+      "Route": "app.g70zxxd5ju.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NB90Dji5BbeuPMi7qFiJrl41Lt0jgDHa3x9bFrk8Ls4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g70zxxd5ju"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NB90Dji5BbeuPMi7qFiJrl41Lt0jgDHa3x9bFrk8Ls4="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.6gzpyzhau4.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6gzpyzhau4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162726"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SiIVMGgRhdXjKSTIddX7mh9IbOXVcwQWc7/p4nS6D/0="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "dotnet-aspire.Web.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dotnet-aspire.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 18:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I="
+        }
+      ]
+    },
+    {
+      "Route": "dotnet-aspire.Web.p007ewjl0a.bundle.scp.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\dotnet-aspire.Web.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 18:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p007ewjl0a"
+        },
+        {
+          "Name": "label",
+          "Value": "dotnet-aspire.Web.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I="
+        }
+      ]
+    },
+    {
+      "Route": "dotnet-aspire.Web.p007ewjl0a.styles.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dotnet-aspire.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 18:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p007ewjl0a"
+        },
+        {
+          "Name": "label",
+          "Value": "dotnet-aspire.Web.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I="
+        }
+      ]
+    },
+    {
+      "Route": "dotnet-aspire.Web.styles.css",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\dotnet-aspire.Web.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5802"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 18:00:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2bkRLPZ7MP4WqrV8VRlMu9Jao+PxskzMJTKek9Zae8I="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Projects\\dotnet-aspire\\dotnet-aspire.Web\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 21 Sep 2024 17:53:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}

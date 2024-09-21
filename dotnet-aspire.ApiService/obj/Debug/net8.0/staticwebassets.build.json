@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AraiXUIFGt04LPeIDVI+o3FK4IDzGn7/cFSwPW61VgY=",
+  "Source": "dotnet-aspire.ApiService",
+  "BasePath": "_content/dotnet-aspire.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
